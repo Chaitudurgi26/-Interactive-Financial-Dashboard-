@@ -1,5 +1,3 @@
-📘 README.md (Upload this file)
-
 Objective:
 Design an interactive financial dashboard for business stakeholders using Tableau and Excel. The goal is to visualize company performance across key metrics like Sales, Profit, and Market Capitalization, and provide actionable insights through interactivity.
 
